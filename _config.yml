@@ -1,7 +1,7 @@
 # Setup
 title:               Lab of Computer-Integrated Infrastructure Informatics
-tagline:             '(LCIII)'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+tagline:             'LCIII'
+description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>. Modified by <a href="https://www.linkedin.com/in/yeji-hong-800baa235/" target="_black">@Yeji</a>'
 url:                 https://purdue-hubocai-lciii.github.io
 baseurl:             ''
 paginate:            5

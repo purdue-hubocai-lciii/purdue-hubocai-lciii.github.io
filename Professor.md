@@ -15,38 +15,38 @@ Dr. Hubo Cai is a Professor of Civil Engineering and Professor of Construction E
 
 ## Appointments
 
-<table>
-  <tr>
-    <td>2024 - Present</td>
-    <td>Associate Head for Lyles School of Civil and Construction Engineering, Purdue University, West Lafayette, IN</td>
+<table style="border-collapse: collapse; width: 100%; font-size: smaller;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 5px;">2024 - Present</td>
+    <td style="border: none; padding: 5px;">Associate Head for Lyles School of Civil and Construction Engineering, Purdue University, West Lafayette, IN</td>
   </tr>
-  <tr>
-    <td>2023 - 2024</td>
-    <td>Interim Head for School of Construction Management Technology, Purdue University, West Lafayette, IN</td>
+  <tr style="border: none;">
+    <td style="border: none; padding: 5px;">2023 - 2024</td>
+    <td style="border: none; padding: 5px;">Interim Head for School of Construction Management Technology, Purdue University, West Lafayette, IN</td>
   </tr>
-  <tr>
-    <td>2020 - Present</td>
-    <td>Professor of Civil and Construction Engineering, Purdue University, West Lafayette, IN</td>
+  <tr style="border: none;">
+    <td style="border: none; padding: 5px;">2020 - Present</td>
+    <td style="border: none; padding: 5px;">Professor of Civil and Construction Engineering, Purdue University, West Lafayette, IN</td>
   </tr>
-  <tr>
-    <td>2015 - 2019</td>
-    <td>Associate Professor of Civil and Construction Engineering, Purdue University, West Lafayette, IN</td>
+  <tr style="border: none;">
+    <td style="border: none; padding: 5px;">2015 - 2019</td>
+    <td style="border: none; padding: 5px;">Associate Professor of Civil and Construction Engineering, Purdue University, West Lafayette, IN</td>
   </tr>
-  <tr>
-    <td>2009 - 2015</td>
-    <td>Assistant Professor of Civil and Construction Engineering, Purdue University, West Lafayette, IN</td>
+  <tr style="border: none;">
+    <td style="border: none; padding: 5px;">2009 - 2015</td>
+    <td style="border: none; padding: 5px;">Assistant Professor of Civil and Construction Engineering, Purdue University, West Lafayette, IN</td>
   </tr>
-  <tr>
-    <td>2007 - 2009</td>
-    <td>Assistant Professor of Civil and Construction Engineering, Western Michigan University, Kalamazoo, MI</td>
+  <tr style="border: none;">
+    <td style="border: none; padding: 5px;">2007 - 2009</td>
+    <td style="border: none; padding: 5px;">Assistant Professor of Civil and Construction Engineering, Western Michigan University, Kalamazoo, MI</td>
   </tr>
-  <tr>
-    <td>2004 - 2007</td>
-    <td>GIS/Database Applications Developer, URS Corporation, Raleigh, NC</td>
+  <tr style="border: none;">
+    <td style="border: none; padding: 5px;">2004 - 2007</td>
+    <td style="border: none; padding: 5px;">GIS/Database Applications Developer, URS Corporation, Raleigh, NC</td>
   </tr>
-  <tr>
-    <td>2004 - 2004</td>
-    <td>GIS Specialist, North Carolina Department of Transportation, Raleigh, NC</td>
+  <tr style="border: none;">
+    <td style="border: none; padding: 5px;">2004 - 2004</td>
+    <td style="border: none; padding: 5px;">GIS Specialist, North Carolina Department of Transportation, Raleigh, NC</td>
   </tr>
 </table>
 

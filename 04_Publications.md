@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-For a list of journal and conference papers, please vision Professor Cai's [Google Scholar](https://scholar.google.com/citations?hl=en&user=ENmBLQgAAAAJ).<br>
+For a list of journal and conference papers, please visit Professor Cai's [Google Scholar](https://scholar.google.com/citations?hl=en&user=ENmBLQgAAAAJ).<br>
 
 ## Technical Reports
 <ol>

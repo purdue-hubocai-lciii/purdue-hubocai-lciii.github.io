@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact Professor Cai.
+title: Contact
 ---
 
 For prospective students who want to join **LCIII** research group, please send your **CV** and **supplementary materials** (e.g., publications and writings) to Professor Hubo Cai at <mark>hubocai@purdue.edu</mark>. 

@@ -3,7 +3,7 @@ layout: page
 title: Professor
 ---
 
-![Professor Hubo Cai!](https://github.com/purdue-hubocai-lciii/purdue-hubocai-lciii.github.io/edit/master/_images/professorCai.png)
+![Professor Hubo Cai!](https://github.com/purdue-hubocai-lciii/purdue-hubocai-lciii.github.io/_images/professorCai.png)
 
 **Hubo Cai**, Ph.D., P.E.<br>
 Professor of Civil and Construction Engineering and Professor of Construction Engineering and Management<br>

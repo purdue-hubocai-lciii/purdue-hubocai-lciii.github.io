@@ -11,11 +11,11 @@ title: Professor
 Professor of Civil and Construction Engineering and Professor of Construction Engineering and Management<br>
 ​Purdue University<br>
 
-Dr. Hubo Cai is a Professor of Civil Engineering and Professor of Construction Engineering and management with joint appointment with the Lyles School of Civil Engineering and Division of Construction Engineering and Management at Purdue University. Dr. Cai received his Bachelor's degree in construction management engineering from Tongji university in 1998, and MS and Ph.D. in civil engineering from North Carolina State University in 2002 and 2004, respectively.<br>
+Dr. Hubo Cai is a Professor of Civil Engineering and Professor of Construction Engineering and management with joint appointment with the Lyles School of Civil Engineering and Division of Construction Engineering and Management at Purdue University. Dr. Cai received his Bachelor's degree in construction management engineering from Tongji University in 1998, and MS and Ph.D. in civil engineering from North Carolina State University in 2002 and 2004, respectively.<br>
 
 ## Appointments
 
-| Column 1 Header | Column 2 Header |
+|  |  |
 |------------------|-----------------|
 | 2024 - Present  | Associate Head for Lyles School of Civil and Construction Engineering, Purdue University, West Lafayette, IN    |
 | 2023 - 2024     | Interim Head for School of Construction Management Technology, Purdue University, West Lafayette, IN     |

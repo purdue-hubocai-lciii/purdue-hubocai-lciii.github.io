@@ -20,3 +20,5 @@ Purdue University<br><br>
 * NLP, Ontology, and Knowledge Management
 * GIS, GPR, and Laser Scanning
 
+
+See our [YouTube Channel](https://www.youtube.com/@LCIII_Purdue)!

@@ -3,6 +3,7 @@ layout: page
 title: Research
 ---
 
+
 ## Ongoing Research
 <ol>
   <li>
@@ -18,6 +19,7 @@ title: Research
     Agency: Indiana Department of Transportation (INDOT)
   </li>
 </ol>
+
 
 ## Completed Projects
 <ol>

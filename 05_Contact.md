@@ -12,5 +12,3 @@ Room B147<br>
 Delon and Elizabeth Hampton Hall of Civil Engineering<br>
 West Lafayette, IN 47907<br>
 </p>
-
-See our [YouTube Channel](https://www.youtube.com/@LCIII_Purdue)

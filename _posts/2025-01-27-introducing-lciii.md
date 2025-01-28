@@ -7,7 +7,7 @@ Thank you for visiting our website! Our **vision** for LCIII is a world-class re
 
 **Hubo Cai**, Ph.D., P.E.<br>
 Professor<br>
-Lyles School of Civil and Construction Engineering and Division of Construction Engineering & Management<br>
+Lyles School of Civil and Construction Engineering<br>
 Purdue University<br><br>
 
 

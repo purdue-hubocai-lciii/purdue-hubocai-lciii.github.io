@@ -15,13 +15,38 @@ Dr. Hubo Cai is a Professor of Civil Engineering and Professor of Construction E
 
 ## Appointments
 
-|  |  |
-|------------------|-----------------|
-| 2024 - Present  | Associate Head for Lyles School of Civil and Construction Engineering, Purdue University, West Lafayette, IN    |
-| 2023 - 2024     | Interim Head for School of Construction Management Technology, Purdue University, West Lafayette, IN     |
-| 2020 - Present  | ​Professor of Civil and Construction Engineering, Purdue University, West Lafayette, IN   |
-| 2015 - 2019   | Associate Professor of Civil and Construction Engineering, Purdue University, West Lafayette, IN    |
-| 2009 - 2015   | Assistant Professor of Civil and Construction Engineering, Purdue University, West Lafayette, IN    |
-| 2007 - 2009   | Assistant Professor of Civil and Construction Engineering, Western Michigan University, Kalamazoo, MI    |
-| 2004 - 2007   | GIS/Database Applications Developer, URS Corporation, Raleigh, NC    |
-| 2004 - 2004   | GIS Specialist, North Carolina Department of Transportation, Raleigh, NC   |
+<table>
+  <tr>
+    <td>2024 - Present</td>
+    <td>Associate Head for Lyles School of Civil and Construction Engineering, Purdue University, West Lafayette, IN</td>
+  </tr>
+  <tr>
+    <td>2023 - 2024</td>
+    <td>Interim Head for School of Construction Management Technology, Purdue University, West Lafayette, IN</td>
+  </tr>
+  <tr>
+    <td>2020 - Present</td>
+    <td>Professor of Civil and Construction Engineering, Purdue University, West Lafayette, IN</td>
+  </tr>
+  <tr>
+    <td>2015 - 2019</td>
+    <td>Associate Professor of Civil and Construction Engineering, Purdue University, West Lafayette, IN</td>
+  </tr>
+  <tr>
+    <td>2009 - 2015</td>
+    <td>Assistant Professor of Civil and Construction Engineering, Purdue University, West Lafayette, IN</td>
+  </tr>
+  <tr>
+    <td>2007 - 2009</td>
+    <td>Assistant Professor of Civil and Construction Engineering, Western Michigan University, Kalamazoo, MI</td>
+  </tr>
+  <tr>
+    <td>2004 - 2007</td>
+    <td>GIS/Database Applications Developer, URS Corporation, Raleigh, NC</td>
+  </tr>
+  <tr>
+    <td>2004 - 2004</td>
+    <td>GIS Specialist, North Carolina Department of Transportation, Raleigh, NC</td>
+  </tr>
+</table>
+

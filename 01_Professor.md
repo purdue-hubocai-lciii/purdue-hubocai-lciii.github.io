@@ -4,7 +4,7 @@ title: Professor
 ---
 
 ![professorCai3](https://github.com/user-attachments/assets/7ae5f8de-a4fd-4d98-ac29-bad06edb5f8a)
-
+<img src="https://github.com/user-attachments/assets/7ae5f8de-a4fd-4d98-ac29-bad06edb5f8a" alt="Professor Cai" width="300">
 
 **Hubo Cai**, Ph.D., P.E.<br>
 Professor of Civil and Construction Engineering<br>

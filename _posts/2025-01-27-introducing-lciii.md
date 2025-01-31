@@ -23,3 +23,10 @@ Purdue University<br><br>
 
 
 See our [YouTube Channel](https://www.youtube.com/@LCIII_Purdue)!
+
+<iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/videoseries?list=UCtOehAIzhRMr4A2ZJzk6QFg" 
+    title="YouTube Channel" frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+</iframe>

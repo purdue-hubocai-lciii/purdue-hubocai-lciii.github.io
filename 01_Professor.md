@@ -3,9 +3,8 @@ layout: page
 title: Professor
 ---
 
-<!--
-<img src="https://github.com/purdue-hubocai-lciii/purdue-hubocai-lciii.github.io/blob/master/_images/professorCai.png" alt="Professor Hubo Cai">
--->
+![professorCai3](https://github.com/user-attachments/assets/7ae5f8de-a4fd-4d98-ac29-bad06edb5f8a)
+
 
 **Hubo Cai**, Ph.D., P.E.<br>
 Professor of Civil and Construction Engineering<br>

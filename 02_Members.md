@@ -88,16 +88,84 @@ title: Members
 
 
 ## Alumni
-* Xing Su
-* Shuai Li
-* Jaehyun (Jason) Park
-* Chenxi Yuan
-* Jiannan Cai
-* Xin Xu
-* JungHo Jeon
-* Liu Yang
+
+<div class="student-container">
+  <div class="student-card">
+    <img src="https://github.com/user-attachments/assets/6c516909-aae1-4c5d-8963-63a07b7e6307" alt="Xing Su">
+    <h3>Xing Su</h3>
+    <p><i>Ph.D., Purdue University, 2013</i></p>
+    <p><strong>Dissertation:</strong> A Spatial Temporal Information Model for Construction Planning</p>
+    <p><strong>Current Affiliation:</strong> Professor, Department of Construction Management, Zhejiang University</p>
+    <p><strong>E-mail:</strong> <a href="mailto:zsu@zju.edu.cn">zsu@zju.edu.cn</a></p>
+  </div>
+
+  <div class="student-card">
+    <img src="https://github.com/user-attachments/assets/f5a55e43-fdb4-4b22-9c8e-66a94076b958" alt="Shuai Li">
+    <h3>Shuai Li</h3>
+    <p><i>Ph.D., Purdue University, 2017</i></p>
+    <p><strong>Dissertation:</strong> Modeling, Optimizing and Impact Analysis of Incentive and Regulation Mechanisms in Infrastructure Privatization</p>
+    <p><strong>Current Affiliation:</strong> Assistant Professor, Department of CEE, The University of Tennessee Knoxville</p>
+    <p><strong>E-mail:</strong> <a href="mailto:sli8@utk.edu">sli8@utk.edu</a></p>
+  </div>
+
+  <div class="student-card">
+    <img src="https://github.com/user-attachments/assets/47969d5b-8edc-41e5-8cb0-11931a8bb389" alt="Jaehyun Park">
+    <h3>Jaehyun (Jason) Park</h3>
+    <p><i>Ph.D., Purdue University, 2017</i></p>
+    <p><strong>Dissertation:</strong> Dynamic Multi-Dimensional BIM for Total Construction As-Built Documentation</p>
+    <p><strong>Current Affiliation:</strong> BIM Manager (Bechtel Corporation), Adjunct Assistant Professor (New York Institute of Technology/Manhattan College)</p>
+    <p><strong>E-mail:</strong> <a href="mailto:jpark6@bechtel.com">jpark6@bechtel.com</a></p>
+  </div>
+
+  <div class="student-card">
+    <img src="https://github.com/user-attachments/assets/4b273bd4-80e0-44a0-a468-5d4763cafd9a" alt="Chenxi Yuan">
+    <h3>Chenxi Yuan</h3>
+    <p><i>Ph.D., Purdue University, 2018</i></p>
+    <p><strong>Dissertation:</strong> Mapping Underground Utilities with Complex Spatial Configurations using GPR</p>
+    <p><strong>Current Affiliation:</strong> Assistant Professor, Department of Construction Management, Southern Illinois University Edwardsville</p>
+    <p><strong>E-mail:</strong> <a href="mailto:cyuan@sie.edu">cyuan@sie.edu</a></p>
+  </div>
+
+  <div class="student-card">
+    <img src="https://github.com/user-attachments/assets/921a028f-b724-472c-a65b-d3fb050ec1fb" alt="Jiannan Cai">
+    <h3>Jiannan Cai</h3>
+    <p><i>Ph.D., Purdue University, 2020</i></p>
+    <p><strong>Dissertation:</strong> Data-driven Approach to Holistic Situational Awareness in Construction Site Safety Management</p>
+    <p><strong>Current Affiliation:</strong> Assistant Professor, School of CEE and Construction Management, University of Texas at San Antonio</p>
+    <p><strong>E-mail:</strong> <a href="mailto:jiannan.cai@utsa.edu">jiannan.cai@utsa.edu</a></p>
+  </div>
+
+  <div class="student-card">
+    <img src="https://github.com/user-attachments/assets/f463f54c-fdc6-4f0d-8cbb-442a3215e869" alt="Xin Xu">
+    <h3>Xin Xu</h3>
+    <p><i>Ph.D., Purdue University, 2020</i></p>
+    <p><strong>Dissertation:</strong> Semantic Intelligence for Knowledge-based Compliance Checking of Underground Utilities</p>
+    <p><strong>Current Affiliation:</strong> Associate Professor, Department of Engineering Economics and Engineering Management, Hohai University</p>
+    <p><strong>E-mail:</strong> <a href="mailto:xinwu@hhu.edu.cn">xinwu@hhu.edu.cn</a></p>
+  </div>
+  
+  <div class="student-card">
+    <img src="https://github.com/user-attachments/assets/ec3ffa5a-6314-4e74-b203-24ff9e097df5" alt="JungHo Jeon">
+    <h3>JungHo Jeon</h3>
+    <p><i>Ph.D., Purdue University, 2022</i></p>
+    <p><strong>Dissertation:</strong> Ubiquitous Human Sensing Network for Construction Hazard Identification using Wearable EEG</p>
+    <p><strong>Current Affiliation:</strong> Assistant Professor, Department of Architectural Engineering, Pusan National University</p>
+    <p><strong>E-mail:</strong> <a href="mailto:junghojeon@pusan.ac.kr">junghojeon@pusan.ac.kr</a></p>
+  </div>
+
+  <div class="student-card">
+    <img src="https://github.com/user-attachments/assets/a3209d6b-76d8-4e83-afb5-88c08f96ee82" alt="Liu Yang">
+    <h3>Liu Yang</h3>
+    <p><i>Ph.D., Purdue University, 2023</i></p>
+    <p><strong>Dissertation:</strong> Redefining Visual SLAM for Construction Robots: Addressing Dynamic Features and Semantic Composition for Robust Performance</p>
+    <p><strong>Current Affiliation:</strong> Senior Machine Learning Engineer, XPENG</p>
+  </div>
+</div>
+
+
 
 ## Visiting Scholars
+
 <div class="students-container">
   <div class="student-card">
     <img src="https://github.com/user-attachments/assets/a754a653-228f-4e0f-b74e-359b57faa872" alt="Peng Mao">
@@ -107,7 +175,7 @@ title: Members
   </div>
 
   <div class="student-card">
-    <img src="https://github.com/user-attachments/assets/7e8fcb4d-e004-40bc-ac53-d74a692376b0" alt="Hong Zhou">
+    <img src="https://github.com/user-attachments/assets/7917940a-71dc-4e9f-bd2d-16acc0498646" alt="Hong Zhou">
     <h3>Hong Zhou</h3>
     <p><strong>Current Affiliation:</strong><br>Professor, Department of Civil Engineering, School of Architecture and Civil Engineering, Xiamen University</p>
     <p><strong>E-mail:</strong> <a href="mailto:mcwangzh@xmu.edu.cn">mcwangzh@xmu.edu.cn</a></p>

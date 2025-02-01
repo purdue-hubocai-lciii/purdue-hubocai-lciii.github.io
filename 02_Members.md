@@ -60,7 +60,7 @@ title: Members
   </div>
 
   <div class="student-card">
-    <img src="https://github.com/user-attachments/assets/12732c5d-c872-45cb-a968-9272168213d5" alt="Yeji Hong">
+    <img src="https://github.com/user-attachments/assets/f331df9b-77a2-49be-8ff4-f377135ac495" alt="Yeji Hong">
     <h3>Yeji Hong</h3>
     <p><i>2021 - present</i></p>
     <p><strong>Education:</strong><br>
@@ -74,7 +74,7 @@ title: Members
   </div>
 
   <div class="student-card">
-    <img src="https://github.com/user-attachments/assets/d94eb9ea-659e-45d3-840b-4b5b1c87e974" alt="Ruisong Zheng">
+    <img src="https://github.com/user-attachments/assets/62fad5c0-4689-4322-ad95-10f7734a284e" alt="Ruisong Zheng">
     <h3>Ruisong Zheng</h3>
     <p><i>2022 - present</i></p>
     <p><strong>Education:</strong><br>

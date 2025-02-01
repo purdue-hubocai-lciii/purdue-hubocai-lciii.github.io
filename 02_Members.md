@@ -74,7 +74,7 @@ title: Members
   </div>
 
   <div class="student-card">
-    <img src="https://github.com/user-attachments/assets/62fad5c0-4689-4322-ad95-10f7734a284e" alt="Ruisong Zheng">
+    <img src="https://github.com/user-attachments/assets/790edfb8-011f-4796-a565-85582ebf1baa" alt="Ruisong Zheng">
     <h3>Ruisong Zheng</h3>
     <p><i>2022 - present</i></p>
     <p><strong>Education:</strong><br>
@@ -98,5 +98,18 @@ title: Members
 * Liu Yang
 
 ## Visiting Scholars
-* Peng Mao
-* Hong Zhou
+<div class="students-container">
+  <div class="student-card">
+    <img src="https://github.com/user-attachments/assets/a754a653-228f-4e0f-b74e-359b57faa872" alt="Peng Mao">
+    <h3>Peng Mao</h3>
+    <p><strong>Current Affiliation:</strong><br>Professor, Department of Construction Engineering and Management, Nanjing Forestry University</p>
+    <p><strong>E-mail:</strong> <a href="mailto:maopeng@njfu.edu.cn">maopeng@njfu.edu.cn</a></p>
+  </div>
+
+  <div class="student-card">
+    <img src="https://github.com/user-attachments/assets/7e8fcb4d-e004-40bc-ac53-d74a692376b0" alt="Hong Zhou">
+    <h3>Hong Zhou</h3>
+    <p><strong>Current Affiliation:</strong><br>Professor, Department of Civil Engineering, School of Architecture and Civil Engineering, Xiamen University</p>
+    <p><strong>E-mail:</strong> <a href="mailto:mcwangzh@xmu.edu.cn">mcwangzh@xmu.edu.cn</a></p>
+  </div>
+</div>

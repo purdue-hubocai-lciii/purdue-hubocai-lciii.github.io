@@ -15,7 +15,7 @@ title: Members
     text-align: center;
   }
   .student-card img {
-    width: 100%;
+    width: 270px;
     height: auto;
     border-radius: 10px;
   }

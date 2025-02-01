@@ -11,7 +11,7 @@ title: Members
     gap: 20px;
   }
   .student-card {
-    width: 300px;
+    width: 270px;
     text-align: center;
   }
   .student-card img {

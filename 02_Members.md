@@ -11,11 +11,11 @@ title: Members
     gap: 20px;
   }
   .student-card {
-    width: 270px;
+    width: 300px;
     text-align: center;
   }
   .student-card img {
-    width: 270px;
+    width: 300px;
     height: auto;
     border-radius: 10px;
   }
@@ -89,7 +89,7 @@ title: Members
 
 ## Alumni
 
-<div class="student-container">
+<div class="students-container">
   <div class="student-card">
     <img src="https://github.com/user-attachments/assets/6c516909-aae1-4c5d-8963-63a07b7e6307" alt="Xing Su">
     <h3>Xing Su</h3>

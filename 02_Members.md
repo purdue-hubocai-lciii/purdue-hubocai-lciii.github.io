@@ -74,7 +74,7 @@ title: Members
   </div>
 
   <div class="student-card">
-    <img src="https://github.com/user-attachments/assets/83e7f057-e0ec-4db1-b362-5edc8c08dc36" alt="Ruisong Zheng">
+    <img src="https://github.com/user-attachments/assets/d94eb9ea-659e-45d3-840b-4b5b1c87e974" alt="Ruisong Zheng">
     <h3>Ruisong Zheng</h3>
     <p><i>2022 - present</i></p>
     <p><strong>Education:</strong><br>

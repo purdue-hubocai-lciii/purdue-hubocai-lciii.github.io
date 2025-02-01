@@ -22,6 +22,9 @@ title: Members
   .student-card h3 {
     margin: 10px 0 5px;
   }
+  p {
+    font-size: 10pt;
+  }
 </style>
 
 
@@ -65,15 +68,15 @@ title: Members
     B.S., Civil and Environmental Eng., Yonsei University (2019)<br>
     B.S., Computer Science, Yonsei University (2019)</p>
     <p><strong>Research Interests:</strong><br>
-    - Vision-based Lifecycle Management<br>
-    - Digital Twin</p>
+    - Vision-based Safety Assessment<br>
+    - Digital Twinning for Safe Construction Operations</p>
     <p><strong>E-mail:</strong> <a href="mailto:hong385@purdue.edu">hong385@purdue.edu</a></p>
   </div>
 
   <div class="student-card">
     <img src="https://github.com/user-attachments/assets/83e7f057-e0ec-4db1-b362-5edc8c08dc36" alt="Ruisong Zheng">
     <h3>Ruisong Zheng</h3>
-    <p><i>2018 - present</i></p>
+    <p><i>2022 - present</i></p>
     <p><strong>Education:</strong><br>
     M.S., Building Science, University of Southern California (2022)<br>
     B.S., Civil Engineering, Shandongjianzhu University (2019)</p>

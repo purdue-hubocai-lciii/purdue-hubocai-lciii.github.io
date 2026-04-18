@@ -7,7 +7,7 @@ title: Research
 ## Ongoing Research
 <ol>
   <li>
-    <strong>Integrating Sensing Technologies, AI, and BIM to Automate the Lifecycle Quality Control of Precast MSE Wall Systems<br>
+    <strong>Integrating Sensing Technologies, AI, and BIM to Automate the Lifecycle Quality Control of Precast MSE Wall Systems</strong><br>
     01/01/2026 - 12/31/2026<br>
     Agency: University Transportation Center (UTC)
   </li>

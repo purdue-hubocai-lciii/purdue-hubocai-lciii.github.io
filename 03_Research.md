@@ -33,7 +33,7 @@ title: Research
     PI<br>
     09/01/2023 - 08/31/2024<br>
     Agency: University Transportation Center (UTC)
-  <li>
+  </li>
     <strong>Development of a Mapping and Visualization System to Inform Excavators of Buried Utility Pipes</strong><br>
     PI<br>
     07/15/2022 - 07/14/2024<br>

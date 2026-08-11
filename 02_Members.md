@@ -71,6 +71,19 @@ title: Members
     - Artificial Intelligence Algorithms in Construction</p>
     <p><strong>E-mail:</strong> <a href="mailto:zheng705@purdue.edu">zheng705@purdue.edu</a></p>
   </div>
+  
+  <div class="student-card">
+    <img width="343" height="395" src="https://github.com/user-attachments/assets/444c277b-ce84-475e-a061-5d168c560634" alt="Taeeun Kim">
+    <h3>Taeeun Kim</h3>
+    <p><i>2026 - present</i></p>
+    <p><strong>Education:</strong><br>
+    M.S., Civil and Architectural Engineering, Chonnam National University (2026)<br>
+    B.S., Architectural Engineering, Chonnam National University (2024)</p>
+    <p><strong>Research Interests:</strong><br>
+    - Construction Robotics<br>
+    - Human-Robot Interaction</p>
+    <p><strong>E-mail:</strong> <a href="mailto:kim5800@purdue.edu">kim5800@purdue.edu</a></p>
+  </div>
 </div>
 
 

@@ -31,19 +31,6 @@ title: Members
 ## Ph.D. Students
 
 <div class="students-container">
-  <div class="student-card">
-    <img src="https://github.com/user-attachments/assets/95903ed4-068a-4564-8840-fe84018269e4" alt="Yuxi Zhang">
-    <h3>Yuxi Zhang</h3>
-    <p><i>2017 - present</i></p>
-    <p><strong>Education:</strong><br>
-    M.S., Civil Engineering, Purdue University (2019)<br>
-    B.S., Management, Tianjin University (2016)</p>
-    <p><strong>Research Interests:</strong><br>
-    - GPR-based Underground Utility Mapping<br>
-    - Vision-based Object Detection & Classification<br>
-    - Data Integration and Visualization</p>
-    <p><strong>E-mail:</strong> <a href="mailto:zhan2889@purdue.edu">zhan2889@purdue.edu</a></p>
-  </div>
 
   <div class="student-card">
     <img src="https://github.com/user-attachments/assets/5d8145ff-c953-400b-9e1c-36605a124a0a" alt="Zirui Hong">
@@ -159,6 +146,20 @@ title: Members
     <p><i>Ph.D., Purdue University, 2023</i></p>
     <p><strong>Dissertation:</strong> Redefining Visual SLAM for Construction Robots: Addressing Dynamic Features and Semantic Composition for Robust Performance</p>
     <p><strong>Current Affiliation:</strong> Senior Machine Learning Engineer, XPENG</p>
+  </div>
+
+  <div class="student-card">
+    <img src="https://github.com/user-attachments/assets/95903ed4-068a-4564-8840-fe84018269e4" alt="Yuxi Zhang">
+    <h3>Yuxi Zhang</h3>
+    <p><i>2017 - present</i></p>
+    <p><strong>Education:</strong><br>
+    M.S., Civil Engineering, Purdue University (2019)<br>
+    B.S., Management, Tianjin University (2016)</p>
+    <p><strong>Research Interests:</strong><br>
+    - GPR-based Underground Utility Mapping<br>
+    - Vision-based Object Detection & Classification<br>
+    - Data Integration and Visualization</p>
+    <p><strong>E-mail:</strong> <a href="mailto:zhan2889@purdue.edu">zhan2889@purdue.edu</a></p>
   </div>
 </div>
 

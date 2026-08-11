@@ -47,7 +47,7 @@ title: Members
   </div>
 
   <div class="student-card">
-    <img src="https://github.com/user-attachments/assets/f331df9b-77a2-49be-8ff4-f377135ac495" alt="Yeji Hong">
+    <img width="406" height="523" src="https://github.com/user-attachments/assets/4b4b5c34-b625-47d2-aea2-cc0500c9028a" alt="Yeji Hong">
     <h3>Yeji Hong</h3>
     <p><i>2021 - present</i></p>
     <p><strong>Education:</strong><br>
